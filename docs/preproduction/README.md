@@ -42,6 +42,13 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 
 ## Scénario, scénarimage ou document audio/visuel
+![title-present(beta)](Zodiadiegal-title-present(beta).png)
+![explanation-1](Zodie-gal_explanation-1.png)
+![explanation-2](Zodie-gal_explanation-2.png)
+![explanation-3](Zodie-gal_explanation-3.png)
+![explanation-4](Zodie-gal_explanation-4.png)
+![start-screen](Zodie-gal_start-screen.png)
+![monster-design-ethymology](Zodie-gal_zodiac-monster-design-ethymology.png)
 
 
 # Contenu multimédia à intégrer
