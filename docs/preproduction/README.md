@@ -48,7 +48,7 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 ![explanation-3](Zodie-gal_explanation-3.png)
 ![explanation-4](Zodie-gal_explanation-4.png)
 ![start-screen](Zodie-gal_start-screen.png)
-![monster-design-ethymology](Zodie-gal_zodiac-monster-design-ethymology.png)
+![end-screen](Zodie-gal_end-screen.png)
 
 
 # Contenu multimédia à intégrer
@@ -60,12 +60,16 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
+![test](Zodie-gal_test.png)
+![step](Zodie-gal_game-step.png)
+
 
 
 ### Plantation 
 
 
 ### Schéma de branchement 
+
 
 
 ## Matériel de scénographie requis
@@ -102,6 +106,7 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 
 ## Contraintes techniques et potentiels problèmes de production
+![contraintes](Zodie-gal_difficulte.png)
 
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
