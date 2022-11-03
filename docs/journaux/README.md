@@ -1,4 +1,4 @@
-# Journal"
+# Journal
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
@@ -34,7 +34,7 @@
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [] Assez
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
