@@ -61,14 +61,14 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 * Projecteur de lumiere(si possible)
 
 ## Logiciels requis
--CLIP PAINT STUDIO
--GDEVELOP 5
+* CLIP PAINT STUDIO
+* GDEVELOP 5
 
 ## Ressources humaines requises
--1 personne (moi, Yara Abdanor)
+* 1 personne (moi, Yara Abdanor)
 
 ## Ressources spatiales requises (rangement et locaux)
--Petit espace pour version ordianteur de bureau et QR code(mobile).
+* Petit espace pour la version ordinateur de bureau et QR code(mobile).
 
 ## Contraintes techniques et potentiels problèmes de production
 ![contraintes](Zodie-gal_difficulte.png)
