@@ -20,7 +20,6 @@
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
-    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
 ## Cartographie
