@@ -81,7 +81,6 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
-## Budget prévisionnel
 
 
 ## Échéancier global
