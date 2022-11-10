@@ -62,6 +62,7 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 
 ## Logiciels requis
+-CLIP PAINT STUDIO
 -GDEVELOP 5
 
 ## Ressources humaines requises
