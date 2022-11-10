@@ -48,9 +48,7 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
-
-
-## Univers artistique des éléments
+-Les dessins
 
 
 # Planification technique d'un prototype (devis technique)
@@ -59,46 +57,19 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 ![step](Zodie-gal_game-step.png)
 
 
-
-### Plantation 
-
-
-### Schéma de branchement 
-
-
-
-## Matériel de scénographie requis
-
-
 ## Équipements requis
-
-
-* Audio
-    
-
-* Lumière
-  
-
-* Électricité
-
-
-* Réseau
-
 
 * Ordinateur
 
-    
-* Autre
-
 
 ## Logiciels requis
-
+-GDEVELOP 5
 
 ## Ressources humaines requises
-
+-1 personne (moi, Yara Abdanor)
 
 ## Ressources spatiales requises (rangement et locaux)
-
+-Petit espace pour version ordianteur de bureau et QR code(mobile).
 
 ## Contraintes techniques et potentiels problèmes de production
 ![contraintes](Zodie-gal_difficulte.png)
@@ -121,10 +92,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 
 ## Liste des tâches à réaliser
-
+-Creer prototype du jeu dans GDEVELOP 5
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 
 
 ## Rôles et responsabilités des membres de l'équipe
-
+-Yara Abdanor: dessins et programmation du jeux.
