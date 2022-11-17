@@ -73,9 +73,9 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 ![contraintes](Zodie-gal_difficulte.png)
 
 
-| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                            | trouver un facon de cacher l'opaciter de la reponce dans la scene
-|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| |
+| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                            |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------| trouver un facon de cacher l'opaciter de la reponce dans la scene
+| separer l image de  l objet |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
