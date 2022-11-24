@@ -44,7 +44,9 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
--Les dessins
+-Les sketch
+-Les dessings de backgrounds
+-Les dessings des objets specifique
 
 
 # Planification technique d'un prototype (devis technique)
