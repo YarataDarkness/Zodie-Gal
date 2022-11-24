@@ -35,12 +35,25 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 ## Scénario, scénarimage ou document audio/visuel
 ![title-present(beta)](Zodiadiegal-title-present(beta).png)
 ![explanation-1](Zodie-gal_explanation-1.png)
+C'est difficile d'etre une fille!
+-Les emotions deviennent fortes!
+-Le stress et l'anxiete influence les actions de la vie quotidienne...
+-La fille se sent plus vulnerable face a ceux qui sont au pouvoir...
 ![explanation-2](Zodie-gal_explanation-2.png)
+Le zodiac
+-Dans la culture feminine; dans les magazines pour filles,ont retrouve souvent des sections portant sur des quiz ou meme des descriptions portant sur les signes du Zodiac
+-Le zodiac est utilise pour decrire la personalite, leur amoureux, leur ami.
+-Une fille,voulant etre aime par les autres se voudrait d'imiter les descriptions de son signe.
 ![explanation-3](Zodie-gal_explanation-3.png)
+-Par force, sa personalite change dependanment de ces descriptions
+-Elle ne sait plus comment etre honnete avec elle-meme ou avec les autres.
+-Comme une poupe, elle change d'apparence en se basant du contexte de la situation.
 ![explanation-4](Zodie-gal_explanation-4.png)
+A fight against Itsself!!
 ![start-screen](Zodie-gal_start-screen.png)
+Ecran de commencement
 ![end-screen](Zodie-gal_end-screen.png)
-
+Ecran de commencement (quand ont a fini le jeu 100%)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
