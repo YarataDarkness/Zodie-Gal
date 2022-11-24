@@ -26,10 +26,10 @@
 ![cartographie](cartographie.png)
 
 ## Intention de départ
-Faire un jeu d'aventure et clic facile a acceder et a jouer pour les adloescants et les jeunes adultes.
+Faire un jeu d'aventure et clic facile a acceder et a jouer pour les adolescants et les jeunes adultes.
 
 ## Synopsis
-Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. Il y a 12 niveaux au total. Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au Zodiac.
+Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. Il y a 12 niveaux au total(baser sur le zodiac). Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au Zodiac.
 
 
 ## Scénario, scénarimage ou document audio/visuel
@@ -81,6 +81,7 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 -faire un png
 
 | Commentaires   
+L'engin peut supporter les png
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
