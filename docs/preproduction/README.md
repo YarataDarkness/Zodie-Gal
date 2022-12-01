@@ -78,6 +78,9 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 ![test](Zodie-gal_test.png)
 ![step](Zodie-gal_game-step.png)
 ![design-ethy](Zodie-gal_zodiac-monster-design-ethymology.png)
+![design-zodiac](zodiac-design-01.png)
+![design-zodiac](zodiac-design-02.png)
+![misc](zodie-gal-misc-party-time.png)
 
 ## Équipements requis
 
