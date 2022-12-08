@@ -103,14 +103,17 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 
 
 | Contrainte ou problème potentiel 
--trouver un facon de cacher l'opaciter de la reponce dans la scene
+1.trouver un facon de cacher l'opaciter de la reponce dans la scene
+2.Le QR Code ne marche pas.
 
 | Solution envisagée   
--separer l image de  l objet
--faire un png
+1.Separer l image de  l objet
+1.2 Faire un png
+2. Publier le jeu sur Liluo.io et demander au visiteurs de créer un compte Gdevelop gratuit pour jouer au jeux.
+2.2 Donner un lien Web.
 
 | Commentaires   
-L'engin peut supporter les png
+1.L'engin peut supporter les png
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
