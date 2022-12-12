@@ -10,4 +10,4 @@ Dans le dossier **docs**, on retrouve:
 # Prototype du projet *Zodie-Gal*
 
 - BETA
-V.0.0.1: https://yarata.itch.io/zodie-gal/download/t8ucs_7dCJY0eU_IkErk670KSlqu2Js_wPsBtvZt password: zodie-gal-momo
+V.0.0.1: https://yarata.itch.io/zodie-gal password: zodie-gal-momo
