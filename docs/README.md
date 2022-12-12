@@ -10,4 +10,4 @@ Dans ce dossier, on retrouve:
 # Prototype du projet *Zodie-Gal*
 
 - BETA
-V.0.0.1: https://yarata.itch.io/zodie-gal password: epicmemescity
+V.0.0.1: https://yarata.itch.io/zodie-gal password: zodie-gal-momo
