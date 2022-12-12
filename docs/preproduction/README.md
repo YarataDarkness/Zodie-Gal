@@ -44,15 +44,15 @@ C'est difficile d'etre une fille!
 ![explanation-2](Zodie-gal_explanation-2.png)
 
 Le zodiac
--Dans la culture feminine; dans les magazines pour filles,ont retrouve souvent des sections portant sur des quiz ou meme des descriptions portant sur les signes du Zodiac
--Le zodiac est utilise pour decrire la personalite, leur amoureux, leur ami.
--Une fille,voulant etre aime par les autres se voudrait d'imiter les descriptions de son signe.
+- Dans la culture feminine; dans les magazines pour filles,ont retrouve souvent des sections portant sur des quiz ou meme des descriptions portant sur les signes du Zodiac
+- Le zodiac est utilise pour decrire la personalite, leur amoureux, leur ami.
+- Une fille,voulant etre aime par les autres se voudrait d'imiter les descriptions de son signe.
 
 ![explanation-3](Zodie-gal_explanation-3.png)
 
--Par force, sa personalite change dependanment de ces descriptions
--Elle ne sait plus comment etre honnete avec elle-meme ou avec les autres.
--Comme une poupe, elle change d'apparence en se basant du contexte de la situation.
+- Par force, sa personalite change dependanment de ces descriptions
+- Elle ne sait plus comment etre honnete avec elle-meme ou avec les autres.
+- Comme une poupe, elle change d'apparence en se basant du contexte de la situation.
 
 ![explanation-4](Zodie-gal_explanation-4.png)
 
@@ -68,9 +68,9 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
--Les sketch
--Les dessings de backgrounds
--Les dessings des objets specifique
+- Les sketch
+- Les dessings de backgrounds
+- Les dessings des objets specifique
 
 
 # Planification technique d'un prototype (devis technique)
@@ -103,17 +103,17 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 
 
 | Contrainte ou problème potentiel 
-1.trouver un facon de cacher l'opaciter de la reponce dans la scene
-2.Le QR Code ne marche pas.
+- 1. trouver un facon de cacher l'opaciter de la reponce dans la scene
+- 2. Le QR Code ne marche pas.
 
 | Solution envisagée   
-1.Separer l image de  l objet
-1.2 Faire un png
-2. Publier le jeu sur Liluo.io et demander au visiteurs de créer un compte Gdevelop gratuit pour jouer au jeux.
-2.2 Donner un lien Web.
+- 1.Separer l image de  l objet
+- 1.2 Faire un png
+- 2. Publier le jeu sur Liluo.io et demander au visiteurs de créer un compte Gdevelop gratuit pour jouer au jeux.
+- 2.2 Donner un lien Web.
 
 | Commentaires   
-1.L'engin peut supporter les png
+- 1.L'engin peut supporter les png
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
@@ -126,10 +126,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 
 ## Liste des tâches à réaliser
--Creer prototype du jeu dans GDEVELOP 5
+- Creer prototype du jeu dans GDEVELOP 5
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 
 
 ## Rôles et responsabilités des membres de l'équipe
--Yara Abdanor: dessins et programmation du jeux.
+- Yara Abdanor: dessins et programmation du jeux.
