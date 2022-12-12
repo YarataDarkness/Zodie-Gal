@@ -124,6 +124,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
 
+- 2022-12-12 V.0.0.1 (BETA) : https://yarata.itch.io/zodie-gal password:epicmemescity
+
 
 ## Liste des tâches à réaliser
 - Creer prototype du jeu dans GDEVELOP 5
