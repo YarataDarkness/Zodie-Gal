@@ -124,7 +124,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
 
-- 2022-12-12 V.0.0.1 (BETA) : https://yarata.itch.io/zodie-gal password:epicmemescity
+- 2022-12-12 V.0.0.1 (BETA) : https://yarata.itch.io/zodie-gal password:zodie-gal-momo
 
 
 ## Liste des tâches à réaliser
