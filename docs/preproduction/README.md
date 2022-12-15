@@ -82,6 +82,22 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 ![design-zodiac](zodiac-design-02.png)
 ![misc](zodie-gal-misc-party-time.png)
 
+# Profil des Zodiacs
+
+(aquarius.png)
+(aries.png)
+(cancer.png)
+(capricorn.png)
+(gemini.png)
+(leo.png)
+(libra.png)
+(pisces.png)
+(sagittarius.png)
+(scorpius.png)
+(taurus.png)
+(virgo.png)
+
+
 ## Équipements requis
 
 * Ordinateur
