@@ -84,18 +84,18 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 
 # Profil des Zodiacs
 
-(aquarius.png)
-(aries.png)
-(cancer.png)
-(capricorn.png)
-(gemini.png)
-(leo.png)
-(libra.png)
-(pisces.png)
-(sagittarius.png)
-(scorpius.png)
-(taurus.png)
-(virgo.png)
+![zodiac-monstre](aquarius.png)
+![zodiac-monstre](aries.png)
+![zodiac-monstre](cancer.png)
+![zodiac-monstre](capricorn.png)
+![zodiac-monstre](gemini.png)
+![zodiac-monstre](leo.png)
+![zodiac-monstre](libra.png)
+![zodiac-monstre](pisces.png)
+![zodiac-monstre](sagittarius.png)
+![zodiac-monstre](scorpius.png)
+![zodiac-monstre](taurus.png)
+![zodiac-monstre](virgo.png)
 
 
 ## Équipements requis
