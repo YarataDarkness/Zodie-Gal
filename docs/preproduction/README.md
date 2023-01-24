@@ -141,10 +141,11 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 
 
 ## Échéancier global
+
 1. Finir tout les desssins. (debut-mars)
 2. Implenter les dessins dans le jeu. (mi-mars)
-3. Tester le jeu(mi-mars)
-4. Installer le jeu final sur un code QR et sur un site accesible(mi-fevrier)
+3. Tester le jeu. (mi-mars)
+4. Installer le jeu final sur un code QR et sur un site accesible. (mi-fevrier)
 
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
