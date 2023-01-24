@@ -1,6 +1,6 @@
 # Journal
 
-![](abdanor_yara_etudiant.png)
+![abdanor_yara_etudiant](abdanor_yara_etudiant.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
