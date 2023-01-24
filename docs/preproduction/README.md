@@ -67,9 +67,11 @@ Ecran de commencement
 Ecran de commencement (quand ont a fini le jeu 100%)
 
 # Contenu multimédia à intégrer
-* 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24)
+* 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24).
 * 12 images png transparent qui represente les bonnes reponces a choisir dans chacune des images des scenarios des Zodiacs.
-* 12 images png transparent des portraits de chacun des Zodiacs
+* 12 images png transparent des portraits de chacun des Zodiacs.
+* 3 images png pour le ui du jeu.
+* 2 images de commencement d'ecran.
 
 ## Inventaire du contenu multimédia
 - Les sketch
