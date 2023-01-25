@@ -33,6 +33,10 @@ Zodie Gal projet est un jeu web de touche et aventure où il faut aider une jeun
 
 ## Direction artistique
 
+![design-ethy](Zodie-gal_zodiac-monster-design-ethymology.png)
+![design-zodiac](zodiac-design-01.png)
+![design-zodiac](zodiac-design-02.png)
+![misc](zodie-gal-misc-party-time.png)
 
 ## Scénario, scénarimage ou document audio/visuel
 ![title-present(beta)](Zodiadiegal-title-present(beta).png)
@@ -85,10 +89,6 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 ## Schémas ou plans techniques
 ![test](Zodie-gal_test.png)
 ![step](Zodie-gal_game-step.png)
-![design-ethy](Zodie-gal_zodiac-monster-design-ethymology.png)
-![design-zodiac](zodiac-design-01.png)
-![design-zodiac](zodiac-design-02.png)
-![misc](zodie-gal-misc-party-time.png)
 
 # Profil des Zodiacs
 
