@@ -113,6 +113,7 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 ![zodiac-monstre](taurus.png)
 ![zodiac-monstre](virgo.png)
 
+# Profil des niveaux
 
 ## Équipements requis
 
