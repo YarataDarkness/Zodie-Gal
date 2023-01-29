@@ -114,19 +114,54 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 ![zodiac-monstre](virgo.png)
 
 # Profil des niveaux
+Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale adolescante d'une jeune fille. Tout ce qui est rouge represente le bon choix qu'il faut cliquer.
 
 ![zodiac-niveau](niveaux-aquarius.png)
+- Aquarius > La peur de ne pas etre belle.
+- Il faut cliquer sur la brochette dans les cheveux de la jeune fille pour transcpercer l'oeil de Aquarius
+
 ![zodiac-niveau](niveaux-aries.png)
+- Aries > La peur d'etre vue.
+- La peur  d'etre vue dans un environnement qui devrait etre priver.
+- Il faut cliquer sur le pistolet dans le trou du chapeaux de cowboy de la jeune fille pour tirer sur l'oeil de Aries.
+
+
 ![zodiac-niveau](niveaux-cancer.png)
+- Cancer > La peur de ne pas faire partie de ce qui est presentment populaire.
+- La chose populaire est representer par "Duckie", un personnage inventer qui repesente une celebrite(reel ou pas) avec des posters de film et de reboot avec un theme sombre.
+- Il faut cliquer sur la reflection lumineuse des jumelles pour qu'elles ce pointent vers l'oeil de Cancer en la brulant.
+
 ![zodiac-niveau](niveaux-capricorn.png)
+- Capricorn > La peur d'etre idoliser.
+- La peur d'etre idoliser au point de ne pas pouvoir etre soi-meme.
+- Capricorn est supposer etre le niveau le difficile. Capricorn est aussi le plus beau et brillant. Sa partie aquatique est meme crystallizer. 
+- Il faut cliquer sur la tete de la jeune fille pour qu'elle evite l'attaque de Capricorne. Il brisera alors le mimoir de son succes et les pieces transpercent l'oeil.
+
 ![zodiac-niveau](niveaux-gemini.png)
+- Capricorn > La peur d'etre idoliser.
+- La peur d'etre idoliser au point de ne pas pouvoir etre soi-meme.
+
 ![zodiac-niveau](niveaux-leo.png)
+
+
 ![zodiac-niveau](niveaux-libra.png)
+
+
 ![zodiac-niveau](niveaux-pisces.png)
+
+
 ![zodiac-niveau](niveaux-sagittarius.png)
+
+
 ![zodiac-niveau](niveaux-scorpius.png)
+
+
 ![zodiac-niveau](niveaux-taurus.png)
+
+
 ![zodiac-niveau](niveaux-virgo.png)
+
+
 
 ## Équipements requis
 
