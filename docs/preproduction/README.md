@@ -156,16 +156,22 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 - Il faut cliquer sur la nageoire tirer par le deuxieme poisson pour tirer la peau du premier poisson vers les piques du tribunal; l'oeil sera alors transpercer.
 
 ![zodiac-niveau](niveaux-sagittarius.png)
-- Sagittarius > La peur d'etre.
+- Sagittarius > La peur d'etre cibler.
+- Etre cibler par des rumeurs par exemple.
+- Il faut cliquer sur une des fleches pour la lancer vers l'oeil de Sagittarius.
 
 ![zodiac-niveau](niveaux-scorpius.png)
-
+- Scorpius > La peur d'etre mechant.
+- En desirent du respect, l'attitude peut devenir plus stricte envers les autres et l'individu lui-meme.
+- Grace a la reflection du miroir briser, ont peut cliquer sur une piece du miroir que la jeune fille tient; ont peut alors transpercer l'oeil de Scorpius.
 
 ![zodiac-niveau](niveaux-taurus.png)
-
+- Taurus > La peur d'etre courageuse.
+- Il faut cliquer sur la cigarette; la cendre brulante brulera l'oeil de Taurus.
 
 ![zodiac-niveau](niveaux-virgo.png)
-
+- Virgos > La peur d'etre perdu.
+- La fille tient deux objets dans la main avec un boutton: un gadget noir et un gadget blanc; il faut cliquer sur le gadget blanc car elle vient avec le fil blanc qui se fini vers l'oeil de Aquarius (pour l'exploser). Le gadget noir et son fil noir est un hareng fumee.
 
 
 ## Équipements requis
