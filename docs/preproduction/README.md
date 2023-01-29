@@ -138,20 +138,25 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 - Il faut cliquer sur la tete de la jeune fille pour qu'elle evite l'attaque de Capricorne. Il brisera alors le mimoir de son succes et les pieces transpercent l'oeil.
 
 ![zodiac-niveau](niveaux-gemini.png)
-- Capricorn > La peur d'etre idoliser.
-- La peur d'etre idoliser au point de ne pas pouvoir etre soi-meme.
+- Gemini > La peur de la mort.
+- La main blanche met l'huile a gaz et la main noire (ou l'oeil se trouvent) lance l'amulette.
+- Il faut cliquer sur le parapluie pour l'ouvrir et le gaz serait repartie autour la jeune fille avec l'amulette qui sera, par la repercussion du parapluie, remi ver l'oeil de Gemini, le brulant.
 
 ![zodiac-niveau](niveaux-leo.png)
-
+- Leo > La peur d'etre trop tard.
+- La peur d'etre trop tard pour sauver les autres.
+- Il faut cliquer sur les ciseaux pour couper la corde rouge qui tient les pieds du squelette pour que les orteils pointues du squelette transpercent l'oeil de Leo.
 
 ![zodiac-niveau](niveaux-libra.png)
-
+- Libra > La peur de Dieu.
+- Il faut cliquer sur l'intecellles (ou le baton qui les tient) pour bruler les essence qui sont poudre de feu d'artifices.
 
 ![zodiac-niveau](niveaux-pisces.png)
-
+- Pisces > La peur du jugement.
+- Il faut cliquer sur la nageoire tirer par le deuxieme poisson pour tirer la peau du premier poisson vers les piques du tribunal; l'oeil sera alors transpercer.
 
 ![zodiac-niveau](niveaux-sagittarius.png)
-
+- Sagittarius > La peur d'etre.
 
 ![zodiac-niveau](niveaux-scorpius.png)
 
