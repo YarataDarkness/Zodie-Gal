@@ -115,6 +115,19 @@ Ecran de commencement (quand ont a fini le jeu 100%)
 
 # Profil des niveaux
 
+![zodiac-niveau](niveaux-aquarius.png)
+![zodiac-niveau](niveaux-aries.png)
+![zodiac-niveau](niveaux-cancer.png)
+![zodiac-niveau](niveaux-capricorn.png)
+![zodiac-niveau](niveaux-gemini.png)
+![zodiac-niveau](niveaux-leo.png)
+![zodiac-niveau](niveaux-libra.png)
+![zodiac-niveau](niveaux-pisces.png)
+![zodiac-niveau](niveaux-sagittarius.png)
+![zodiac-niveau](niveaux-scorpius.png)
+![zodiac-niveau](niveaux-taurus.png)
+![zodiac-niveau](niveaux-virgo.png)
+
 ## Équipements requis
 
 * Ordinateur
