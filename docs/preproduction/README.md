@@ -80,18 +80,6 @@ Ecran de commencement
 
 Ecran de commencement (quand ont a fini le jeu 100%)
 
-# Contenu multimédia à intégrer
-* 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24).
-* 12 images png transparent qui represente les bonnes reponces a choisir dans chacune des images des scenarios des Zodiacs.
-* 12 images png transparent des portraits de chacun des Zodiacs.
-* 3 images png pour le ui du jeu.
-* 2 images de commencement d'ecran.
-
-## Inventaire du contenu multimédia
-- Les sketch
-- Les dessings de backgrounds
-- Les dessings des objets specifique
-
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -172,6 +160,18 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 ![zodiac-niveau](niveaux-virgo.png)
 - Virgos > La peur d'etre perdu.
 - La fille tient deux objets dans la main avec un boutton: un gadget noir et un gadget blanc; il faut cliquer sur le gadget blanc car elle vient avec le fil blanc qui se fini vers l'oeil de Aquarius (pour l'exploser). Le gadget noir et son fil noir est un hareng fumee.
+
+# Contenu multimédia à intégrer
+* 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24).
+* 12 images png transparent qui represente les bonnes reponces a choisir dans chacune des images des scenarios des Zodiacs.
+* 12 images png transparent des portraits de chacun des Zodiacs.
+* 3 images png pour le ui du jeu.
+* 2 images de commencement d'ecran.
+
+## Inventaire du contenu multimédia
+- Les sketch
+- Les dessings de backgrounds
+- Les dessings des objets specifique
 
 
 ## Équipements requis
