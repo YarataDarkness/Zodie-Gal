@@ -167,18 +167,22 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 * 12 images png transparent des portraits de chacun des Zodiacs.
 * 3 images png pour le ui du jeu.
 * 2 images de commencement d'ecran.
+* Trames musicales
+* Trames ambiances
+* Trames sonnores
 
 ## Inventaire du contenu multimédia
 - Les sketch
 - Les dessings de backgrounds
 - Les dessings des objets specifique
-
+- Les files audio.
 
 ## Équipements requis
 
 * Ordinateur
 * Tablette
 * Projecteur de lumiere(si possible)
+* Table
 
 ## Logiciels requis
 * CLIP PAINT STUDIO
@@ -214,8 +218,9 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 
 1. Finir tout les desssins. (debut-mars)
 2. Implenter les dessins dans le jeu. (mi-mars)
-3. Tester le jeu. (mi-mars)
-4. Installer le jeu final sur un code QR et sur un site accesible. (mi-fevrier)
+3. Implenter les trames audios dans le jeu. (mi-mars)
+4. Tester le jeu. (fin-mars)
+5. Installer le jeu final sur un code QR et sur un site accesible. (mi-fevrier)
 
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
