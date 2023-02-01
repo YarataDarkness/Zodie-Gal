@@ -27,7 +27,7 @@
 
 ## Intention de départ
 Faire un jeu d'aventure et clic facile a acceder et a jouer pour les adolescants et les jeunes adultes.
-
+Un jeu d'aventure qui se base sur la periode de puberte d'une jeune fille dans ses peurs d'adolescantes.
 
 
 ## Synopsis
