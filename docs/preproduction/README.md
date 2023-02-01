@@ -107,59 +107,71 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 ![zodiac-niveau](niveaux-aquarius.png)
 - Aquarius > La peur de ne pas etre belle.
 - Il faut cliquer sur la brochette dans les cheveux de la jeune fille pour transcpercer l'oeil de Aquarius
+- Ambiance; champignons long et court lumineux(avec des spores?), vert-bleu-gris, une place assez degeulasse et pourtant mystique(?).
 
 ![zodiac-niveau](niveaux-aries.png)
 - Aries > La peur d'etre vue.
 - La peur  d'etre vue dans un environnement qui devrait etre priver.
 - Il faut cliquer sur le pistolet dans le trou du chapeaux de cowboy de la jeune fille pour tirer sur l'oeil de Aries.
+- Ambiance; cowboy (avec une epice d'horreur et d'intrigue), ranch(comme un environnement de survie dans un film d'horreur) , pailles dans le sol, couverture d'enfant bleu avec des serpents et des echelles, magazines playboy(?) sur le sol de paille avec des pages dechirer.
 
 
 ![zodiac-niveau](niveaux-cancer.png)
 - Cancer > La peur de ne pas faire partie de ce qui est presentment populaire.
 - La chose populaire est representer par "Duckie", un personnage inventer qui repesente une celebrite(reel ou pas) avec des posters de film et de reboot avec un theme sombre.
 - Il faut cliquer sur la reflection lumineuse des jumelles pour qu'elles ce pointent vers l'oeil de Cancer en la brulant.
+- Ambiance; Place tropicale ensoleillier avec un concert(?) loin dans l'horizons, des poster de Duckie Classic, Grim Dark Duckie et Duckie anime(?) (Duckie est un worldwide phenomenon) sur les rochers derriere de la jeune fille.
 
 ![zodiac-niveau](niveaux-capricorn.png)
 - Capricorn > La peur d'etre idoliser.
 - La peur d'etre idoliser au point de ne pas pouvoir etre soi-meme.
 - Capricorn est supposer etre le niveau le difficile. Capricorn est aussi le plus beau et brillant. Sa partie aquatique est meme crystallizer. 
 - Il faut cliquer sur la tete de la jeune fille pour qu'elle evite l'attaque de Capricorne. Il brisera alors le mimoir de son succes et les pieces transpercent l'oeil.
+- Ambiance; Grande salle avec un sol de glasse d'argent reflectif, vitrail en or lumineux, bande sonores orchestrale(?) mais de basse qualiter.
 
 ![zodiac-niveau](niveaux-gemini.png)
 - Gemini > La peur de la mort.
 - La main blanche met l'huile a gaz et la main noire (ou l'oeil se trouvent) lance l'amulette.
 - Il faut cliquer sur le parapluie pour l'ouvrir et le gaz serait repartie autour la jeune fille avec l'amulette qui sera, par la repercussion du parapluie, remi ver l'oeil de Gemini, le brulant.
+- Ambiance; gris gris gris, dans l'horizons ont peut voir une cite avec des sculpture d'immeubles haut et grands, tres urbain, peu de pluie, tres industrilaliser.
 
 ![zodiac-niveau](niveaux-leo.png)
 - Leo > La peur d'etre trop tard.
 - La peur d'etre trop tard pour sauver les autres.
 - Il faut cliquer sur les ciseaux pour couper la corde rouge qui tient les pieds du squelette pour que les orteils pointues du squelette transpercent l'oeil de Leo.
+- Ambiance; salle gris et cementer, squelette cartooniser, theme d'horreur plus pour enfants.
 
 ![zodiac-niveau](niveaux-libra.png)
 - Libra > La peur de Dieu.
 - Il faut cliquer sur l'intecellles (ou le baton qui les tient) pour bruler les essence qui sont poudre de feu d'artifices.
+- Ambiance; eglise de style orthodoxe pauvre, pousserieux et fait en bois, sombre, peu de lumiere, petite statue de style brtual d'un ange des deux coter, une lumiere peut etre vue de haut mais elle est cacherr par Libra pour commencer son jugement severe et strict.
 
 ![zodiac-niveau](niveaux-pisces.png)
 - Pisces > La peur du jugement.
 - Il faut cliquer sur la nageoire tirer par le deuxieme poisson pour tirer la peau du premier poisson vers les piques du tribunal; l'oeil sera alors transpercer.
+- Ambiance; tribunal avec des piques en bois, des panneaux de bois de differentes palette de brun se pointe vers la jeune fille, une camera lumineuse et un paneau avec des yeux se pointe vers la nageoire fragile de Pisces(la reponce de l'illustration; ce niveaux est supposer etre facile.)
 
 ![zodiac-niveau](niveaux-sagittarius.png)
 - Sagittarius > La peur d'etre cibler.
 - Etre cibler par des rumeurs par exemple.
 - Il faut cliquer sur une des fleches pour la lancer vers l'oeil de Sagittarius.
+- Ambiance; herbes pour le sol, le reste est noir et sombre, des cibles avec des fleches briser se trouve par terre, l'oeil de Sagittarius est rouge et montre ce qu'il cible.
 
 ![zodiac-niveau](niveaux-scorpius.png)
 - Scorpius > La peur d'etre mechant.
 - En desirent du respect, l'attitude peut devenir plus stricte envers les autres et l'individu lui-meme.
 - Grace a la reflection du miroir briser, ont peut cliquer sur une piece du miroir que la jeune fille tient; ont peut alors transpercer l'oeil de Scorpius.
+- Ambiance; miroire briser en en angle de direction vers le visage sans glasse pour etre reflecter, des parodies de poster de motivations feminine sont mise sur les mur, vert noir, gris, jaune gris(?), une place ou les mouches et autres insectes se faufilent.
 
 ![zodiac-niveau](niveaux-taurus.png)
 - Taurus > La peur d'etre courageuse.
 - Il faut cliquer sur la cigarette; la cendre brulante brulera l'oeil de Taurus.
+- Ambiance; rodeo, jaune-rouge, avec des machine deguiser en gentlemen avec de l'argent pret a parier sur la survie de la jeune fille face au Taurus , proteger par une vitrine protectrice.
 
 ![zodiac-niveau](niveaux-virgo.png)
 - Virgos > La peur d'etre perdu.
 - La fille tient deux objets dans la main avec un boutton: un gadget noir et un gadget blanc; il faut cliquer sur le gadget blanc car elle vient avec le fil blanc qui se fini vers l'oeil de Aquarius (pour l'exploser). Le gadget noir et son fil noir est un hareng fumee.
+- Ambiance; une cave(?), l'eau monte, des pole d'electriciter son briser dans l'arrier du plan, gris-bleu fonce et pale, une lumiere se voit dans l'arriere en contraste.
 
 # Contenu multimédia à intégrer
 * 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24).
