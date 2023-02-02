@@ -205,6 +205,7 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 
 ## Ressources spatiales requises (rangement et locaux)
 * Petit espace pour la version ordinateur de bureau et QR code(mobile).
+![ressources-spatiales](outside-design.png)
 
 ## Contraintes techniques et potentiels problèmes de production
 ![contraintes](Zodie-gal_difficulte.png)
