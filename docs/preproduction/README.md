@@ -195,6 +195,10 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 * Tablette
 * Projecteur de lumiere(si possible)
 * Table
+* Ballons
+* Tente(?)
+* Panneau (pour le poster)
+* Girlandes(?)
 
 ## Logiciels requis
 * CLIP PAINT STUDIO
