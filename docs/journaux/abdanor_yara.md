@@ -25,7 +25,7 @@
 
 -Updater les issues.
 
-―
+―Fini la video preproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 https://youtu.be/wxchQYKdTW0
@@ -45,7 +45,7 @@ Travailler a la maison 100%.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [ X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -56,7 +56,7 @@ Travailler a la maison 100%.
 
 
 ### Défis pour la prochaine semaine
-
+-Travailler sur les issues un par un.
 
 ---
 ## Semaine 2
