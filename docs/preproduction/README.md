@@ -211,6 +211,7 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 * Petit espace pour la version ordinateur de bureau et QR code(mobile).
 ![ressources-spatiales](outside-design.png)
 -L'idee est de creer un environnemnt loufoque pour un jeu bizarre ,mais colorer. Dans ce contexte meta, les zodiacs, incluant la jeune fille, sont comme une troupe musicale de theatre et le jeu represente une perfomance de l'une de leur piece.
+![ressources-spatiales](outside-design-birdview.png)
 
 ## Contraintes techniques et potentiels problèmes de production
 ![contraintes](Zodie-gal_difficulte.png)
