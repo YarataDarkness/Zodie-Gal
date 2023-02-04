@@ -28,7 +28,7 @@
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-Aucune
+https://youtu.be/wxchQYKdTW0
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -37,7 +37,6 @@ Aucune
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Je dois maintenant travailler sur les storyboards de chacun des nivveau (12) et expliquer leur contenu et leur signification.
 Je dois aussi dessiner et expliquer le storyboards des victoires des niveaux et expliquer leur contenu et leur siginification.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
