@@ -73,12 +73,6 @@ Ecran de commencement
 
 Ecran de commencement (quand ont a fini le jeu 100%)
 
-
-# Planification technique d'un prototype (devis technique)
-## Schémas ou plans techniques
-![test](Zodie-gal_test.png)
-![step](Zodie-gal_game-step.png)
-
 # Profil des Zodiacs
 
 ![zodiac-monstre](aquarius.png)
@@ -165,6 +159,13 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 - Virgos > La peur d'etre perdu.
 - La fille tient deux objets dans la main avec un boutton: un gadget noir et un gadget blanc; il faut cliquer sur le gadget blanc car elle vient avec le fil blanc qui se fini vers l'oeil de Aquarius (pour l'exploser). Le gadget noir et son fil noir est un hareng fumee.
 - Ambiance; une cave(?), l'eau monte, des pole d'electriciter son briser dans l'arrier du plan, gris-bleu fonce et pale, une lumiere se voit dans l'arriere en contraste.
+
+
+# Planification technique d'un prototype (devis technique)
+## Schémas ou plans techniques
+![test](Zodie-gal_test.png)
+![step](Zodie-gal_game-step.png)
+
 
 # Contenu multimédia à intégrer
 * 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24).
