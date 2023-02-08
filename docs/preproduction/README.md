@@ -26,18 +26,11 @@
 ![cartographie](cartographie.png)
 
 ## Intention de départ
-Faire un jeu d'aventure et clic facile a acceder et a jouer pour les adolescants et les jeunes adultes.
 Un jeu d'aventure qui se base sur la periode de puberte d'une jeune fille dans ses peurs d'adolescantes.
 
 
 ## Synopsis
-Zodie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. Il y a 12 niveaux au total(baser sur le zodiac). Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au Zodiac. Si on a fini le jeu a 100%(si ont a tuer tout les Zodiac dans chacun des portraits) ont arrive a un ecran special de jeu.
-
-Une jeune fille a besoin de tuer les 12 monstres du zodiac. Avec une series de piece d'images interactifs, l'audience trouvera les bonnes armes a utiliser pour tuer les zodiacs.
-
-Les zodiacs sont designer de facon a ce que leurs membres qui sert a tuer sont prioritaire. Alors, la plupart des zodiac on des silouhettes minime(par exemple Sagittarus na besoin que de ses jambes et son corps haut est couper que pour garder seulement l'arc qui lui sert a tirer des fleches. Dessiner un humain pour etre absolument comme l'original interpertation du zodiac serait generique et perdictable.) L'effect imcomplet a certains des zodiacs peut leur donner un flair morbide. L'effect imcomplet sert aussi a designer a certains des zodiacs leur niveau de difficulte dans la series de piece d'images interactifs(exemple; le scorpion a un corps petit et donc peu develloper comparer a sa grande queue = le niveau de difficulter est donc facile. Le capricorn, en comparaison, a un corps completement develloper = grande difficulter(master))
-
-Le point faible des zodiacs est leur seul oeil unique qui est placer sur le membre de leur corps qu'il utilise pour tuer quelqu'un. Exemple: le cancer a un son oeil sur sa grande pince gauche qu'elle utilise pour tuer la jeune fille.
+Zodie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. 
 
 ## Direction artistique
 
