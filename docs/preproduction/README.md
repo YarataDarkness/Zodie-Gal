@@ -165,7 +165,7 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 ## Schémas ou plans techniques
 ![test](Zodie-gal_test.png)
 ![step](Zodie-gal_game-step.png)
-
+-Quand l'image change (l'objet est cliquer) --> effet de dissolution --> effet de cloche en reverb --> changement d'image --> clique sur la deuxieme illustration --> bruit de page --> fade to dark --> retour a l'ecran de debut.
 
 # Contenu multimédia à intégrer
 * 24 images png des scenarios de chacun des Zodiacs plus leurs images de fin (12x12 =24).
