@@ -242,6 +242,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 *Dates importantes :*
 
 - 2022-12-12 V.0.0.1 (BETA) : https://yarata.itch.io/zodie-gal password:zodie-gal-momo
+- 2023-02-09 V.0.0.2 (BETA) : https://yarata.itch.io/zodie-gal-v002-beta password:zodie-gal-momo-ver2
 
 
 ## Liste des tâches à réaliser
