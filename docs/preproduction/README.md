@@ -204,12 +204,12 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 ## Ressources spatiales requises (rangement et locaux)
 * Petit espace pour la version ordinateur de bureau et QR code(mobile).
 
-![ressources-spatiales](outside-design-birdview.png)
+![ressources-spatiales](outsider.png)
 -La table (les tables?) sert a montrer les codes QR.
 
 
 ## Contraintes techniques et potentiels problèmes de production
-![contraintes](outsider.png)
+![contraintes](Zodie-gal_difficulte.png)
 
 
 | Contrainte ou problème potentiel 
