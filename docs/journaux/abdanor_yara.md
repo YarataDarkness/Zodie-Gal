@@ -61,7 +61,7 @@ Travailler a la maison 100%.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+-Creer une nouvelle version du jeu qui inclue le niveau Aquarius: sons + music + effets.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -70,7 +70,7 @@ Travailler a la maison 100%.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -83,7 +83,7 @@ Travailler a la maison 100%.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -94,7 +94,7 @@ Travailler a la maison 100%.
 
 
 ### Défis pour la prochaine semaine
-
+Finir tout les autres niveaux.
 
 ---
 ## Semaine 3 
