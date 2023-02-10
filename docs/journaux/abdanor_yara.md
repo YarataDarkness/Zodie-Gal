@@ -70,7 +70,7 @@ Travailler a la maison 100%.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [x] Assez
+- [ x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -83,7 +83,7 @@ Travailler a la maison 100%.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x] Assez
+- [ x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -94,7 +94,7 @@ Travailler a la maison 100%.
 
 
 ### Défis pour la prochaine semaine
-Finir tout les autres niveaux.
+Finir tout les autres niveaux. Regler la video sur la version mobile.
 
 ---
 ## Semaine 3 
