@@ -209,7 +209,7 @@ Les niveaux des 12 zodiacs represente les peurs presente dans la vie generale ad
 
 
 ## Contraintes techniques et potentiels problèmes de production
-![contraintes](Zodie-gal_difficulte.png)
+![contraintes](outsider.png)
 
 
 | Contrainte ou problème potentiel 
