@@ -110,19 +110,20 @@ Finir tout les autres niveaux. Regler la video sur la version mobile.
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [X] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je ne pense pas que sa soit possible de faire fonctionner une version mobile de mon jeu dans Gdeveloper 5. Meme apres avoir fixer la video, le jeu crash sur la version mobile car il detecte le fait que le jeu est techniquement un html (je crois...)
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Changez la gimmique de la distribution du jeu. Au lieu de QR code...
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
@@ -132,7 +133,7 @@ Finir tout les autres niveaux. Regler la video sur la version mobile.
 
 
 ### Défis pour la prochaine semaine
-
+Il faut maintenant finir les niveaux. Le jeu lui-meme.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
