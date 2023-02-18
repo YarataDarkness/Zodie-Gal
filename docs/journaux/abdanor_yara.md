@@ -175,7 +175,7 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+-J'ai finis les protraits de tout les Zodiacs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
