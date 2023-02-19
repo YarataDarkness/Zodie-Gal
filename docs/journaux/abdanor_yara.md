@@ -180,6 +180,8 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 
 -J'ai implenter les portraits dans le start-screen.
 
+-J'ai implenter le code squelette pour les niveaux et le screen 100%.
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
