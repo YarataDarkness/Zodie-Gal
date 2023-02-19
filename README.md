@@ -13,3 +13,5 @@ Dans le dossier **docs**, on retrouve:
 *V.0.0.1: https://yarata.itch.io/zodie-gal password: zodie-gal-momo
 
 *V.0.0.2: https://yarata.itch.io/zodie-gal-v002-beta password:zodie-gal-momo-ver2
+
+*V.0.0.3: https://yarata.itch.io/zodie-gal-beta-done password:zodie-gal
