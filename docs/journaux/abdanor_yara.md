@@ -191,12 +191,12 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je n'ais pas reussi a fixer une version mobile, mais avec l'aide de mes professeurs, j'ai reussi a installer le squelette princiaple de mon jeu, sa nouvelle installation interieur, et l'installation sonores.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -204,7 +204,7 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -215,6 +215,7 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 
 
 ### Défis pour la prochaine semaine
+Finir le jeu!! Go!
 
 ---
 ## Semaine de rattrapage
