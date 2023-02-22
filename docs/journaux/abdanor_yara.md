@@ -182,6 +182,8 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 
 -J'ai implenter le code squelette pour les niveaux et le screen 100%.
 
+-J'ai installer les haut-parleurs.
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
