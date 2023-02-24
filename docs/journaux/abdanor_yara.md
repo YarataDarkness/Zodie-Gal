@@ -184,6 +184,8 @@ Il faut maintenant finir les niveaux. Le jeu lui-meme.
 
 -J'ai installer les haut-parleurs.
 
+-J'ai travailler sur la banniere.
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
