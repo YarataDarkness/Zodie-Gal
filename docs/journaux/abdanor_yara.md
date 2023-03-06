@@ -222,10 +222,10 @@ Finir le jeu!! Go!
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
--
+-Fini un la moitier des dessins.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+non.Je ne suis pas fier.
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -233,10 +233,10 @@ Finir le jeu!! Go!
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [X] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ j'aurais pu tout les finir dans la semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -245,7 +245,7 @@ Finir le jeu!! Go!
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
@@ -255,7 +255,7 @@ Finir le jeu!! Go!
 
 
 ### Défis pour la prochaine semaine
-
+Finir tout les dessins.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
