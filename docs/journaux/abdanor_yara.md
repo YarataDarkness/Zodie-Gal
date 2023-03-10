@@ -259,7 +259,8 @@ Finir tout les dessins.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+-Finis quelques niveaux colorier
+-amener une lampe
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -270,28 +271,29 @@ Finir tout les dessins.
 - [ ] Complètement
 - [ ] Assez
 - [ ] Peu
-- [ ] Pas du tout
+- [x ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
+Parce que les dessins ne sont toujours pas finis
+Parce que j'avais envie de me suicider ok cest pas trop compliquer.
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Finir les dessins
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [X ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+les dessins
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+les finir le weekend
 
 ### Défis pour la prochaine semaine
+finir les dessins
 
 ---
 ## Semaine 7
