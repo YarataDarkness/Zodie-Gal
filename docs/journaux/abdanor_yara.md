@@ -298,6 +298,7 @@ finir les dessins
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
+-Finis les dessins
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
