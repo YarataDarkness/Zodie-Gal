@@ -298,7 +298,7 @@ finir les dessins
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
--Finis les dessins
+-Finis le jeu.
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
@@ -308,7 +308,7 @@ finir les dessins
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [ X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -321,7 +321,7 @@ finir les dessins
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
